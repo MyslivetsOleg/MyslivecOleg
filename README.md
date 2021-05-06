@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on my OSCP/OSWE Certification
 - 💞️ I’m looking to collaborate on cybersecurity projects or/and preparing for OSCP/OSWE Cert
 - 📫 How to reach me:
-                  email:    myslivec.oleg@yandex.ru
-                  linkedin: 
+	- email:    myslivec.oleg@yandex.ru
+    - linkedin: 
 
 <!---
 MyslivecOleg/MyslivecOleg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
